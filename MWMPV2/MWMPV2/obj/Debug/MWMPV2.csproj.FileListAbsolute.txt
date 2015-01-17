@@ -1,0 +1,47 @@
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\bin\Debug\MWMPV2.exe.config
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\bin\Debug\MWMPV2.exe
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\bin\Debug\MWMPV2.pdb
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\MWMPV2.csprojResolveAssemblyReference.cache
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\MainWindow.baml
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\MainWindow.g.cs
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\App.g.cs
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\MWMPV2_MarkupCompile.cache
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\MWMPV2.g.resources
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\MWMPV2.Properties.Resources.resources
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\MWMPV2.csproj.GenerateResource.Cache
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\MWMPV2.exe
+c:\users\kévin\documents\visual studio 2013\Projects\MWMPV2\MWMPV2\obj\Debug\MWMPV2.pdb
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\bin\Debug\MWMPV2.exe.config
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.exe
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.pdb
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\bin\Debug\MWMPV2.exe
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\bin\Debug\MWMPV2.pdb
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.csprojResolveAssemblyReference.cache
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MainWindow.baml
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MainWindow.g.cs
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\App.g.cs
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2_MarkupCompile.cache
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.g.resources
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.Properties.Resources.resources
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.csproj.GenerateResource.Cache
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\TestButton.baml
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\App.baml
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\bin\Debug\taglib-sharp.dll
+C:\Users\Assfeld\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2_Content.g.cs
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\bin\Debug\MWMPV2.exe.config
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.exe
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.pdb
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\bin\Debug\MWMPV2.exe
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\bin\Debug\MWMPV2.pdb
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\bin\Debug\taglib-sharp.dll
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.csprojResolveAssemblyReference.cache
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MainWindow.baml
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\TestButton.baml
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\App.baml
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MainWindow.g.cs
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\App.g.cs
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2_Content.g.cs
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2_MarkupCompile.cache
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.g.resources
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.Properties.Resources.resources
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Debug\MWMPV2.csproj.GenerateResource.Cache

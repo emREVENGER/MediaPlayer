@@ -1,0 +1,17 @@
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\bin\Release\MWMPV2.exe.config
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\bin\Release\MWMPV2.exe
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\bin\Release\MWMPV2.pdb
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\bin\Release\taglib-sharp.dll
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MWMPV2.csprojResolveAssemblyReference.cache
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MainWindow.baml
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\TestButton.baml
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\App.baml
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MainWindow.g.cs
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\App.g.cs
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MWMPV2_Content.g.cs
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MWMPV2_MarkupCompile.cache
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MWMPV2.g.resources
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MWMPV2.Properties.Resources.resources
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MWMPV2.csproj.GenerateResource.Cache
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MWMPV2.exe
+C:\Users\Kévin\Desktop\MWMPV2\MWMPV2\obj\Release\MWMPV2.pdb
